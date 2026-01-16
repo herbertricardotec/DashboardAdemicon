@@ -1,1 +1,68 @@
 
+# Dashboard de Performance - ADEMICON Consórcio de Investimento
+
+Este documento descreve o **dashboard de performance** desenvolvido para a empresa **Ademin (ADEMICON - Consórcio de Investimento)**, 
+O painel foi criado para acompanhar metas, resultados e desempenho dos vendedores e donos de loja, oferecendo uma visão clara e motivadora da performance.
+
+---
+
+## 🎯 Funcionalidades Principais
+
+### 1. Metas Mensais e Diárias
+- **Meta mensal:**
+- **Acumulado até o momento:**
+- **Faltando para meta mensal:**
+- **Meta diária:**
+- **Acumulado diário:**
+- **Faltando para meta diária:**  
+
+---
+
+### 2. Métricas da Loja
+- **Visão mensal:** acompanhamento da meta e progresso acumulado.  
+- **Visão diária:** acompanhamento da meta diária e saldo restante.  
+
+---
+
+### 3. Desempenho Individual dos Vendedores
+- **Receita total do vendedor líder:**  
+- **Meta de vendas individual:**  
+- **Falta realizar:**  
+- **Meta diária individual:**   
+
+---
+
+### 4. Ranking Top 10 por Performance
+Lista dos vendedores com maior receita no período:
+| Posição | Vendedor             | Receita       |
+|---------|----------------------|---------------|
+| 1       | Davi Gileade         |               |
+| 2       | Maria e Kaique       |               |
+| 3       | Jessica Mara         |               |
+| 4       | Jhonatan Calado      |               |
+| 5       | Vagner Filipak       |               |
+| 6       | Exdradaniel          |               |
+| 7       | Jefferson Peixer     |               |
+| 8       | Andrei Dominique     |               |
+| 9       | Thamires Regina      |               |
+| 10      | -                    |               |
+
+---
+
+### 5. Mensagem Motivacional
+> *"O começo pode parecer lento, mas a constância traz o sucesso."*
+
+---
+
+## 📌 Benefícios do Dashboard
+- **Clareza:** visão consolidada das metas e resultados.  
+- **Competitividade:** ranking estimula engajamento e performance.  
+- **Motivação:** mensagens inspiradoras reforçam a constância.  
+- **Gestão eficiente:** acompanhamento em tempo real das metas mensais e diárias.  
+
+---
+
+## 🚀 Conclusão
+O dashboard da **Ademin** é uma ferramenta estratégica que permite acompanhar o progresso da equipe, 
+identificar líderes de performance e manter o foco nas metas estabelecidas. 
+Ele combina **dados objetivos** com **elementos motivacionais**, tornando-se essencial para a gestão de resultados.
